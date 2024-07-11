@@ -1,0 +1,8 @@
+﻿id,name,user_id,activity_type_group_id,has_multi_records,has_target,is_instant,notify_type,enable,order_number,speech,show_in_summary,tag_creates,tag_removes
+200,I - Walking,92,28,1,1,,,1,,,1,,
+201,I - Sitting,92,28,1,1,,,1,,,1,,
+202,I - Eating,92,28,1,1,,,1,,,1,,
+203,I - Checkup,92,28,1,1,,,1,,,1,,
+204,I - Running,92,28,1,1,,,1,,,1,,
+205,I - Sports,92,28,1,1,,,1,,,1,,
+206,I - Stairs,92,28,1,1,,,1,,,1,,

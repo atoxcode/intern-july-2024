@@ -1,0 +1,36 @@
+,value,record_id,activity_target_id,record,activity,activity_id,target_id,started_at,finished_at,user_id
+0,Happy,1498,40275,I-emotion,I - Walking,200,126,2024/7/10 12:09,2024/7/10 12:09,126
+1,36,1496,40275,I-temperature,I - Walking,200,126,2024/7/10 12:09,2024/7/10 12:09,126
+2,45,1497,40275,I-weight,I - Walking,200,126,2024/7/10 12:09,2024/7/10 12:09,126
+3,Normal,1498,40276,I-emotion,I - Walking,200,126,2024/7/10 12:11,2024/7/10 12:11,126
+4,35.5,1496,40278,I-temperature,I - Walking,200,126,2024/7/10 12:09,2024/7/10 12:09,127
+5,50,1497,40278,I-weight,I - Walking,200,126,2024/7/10 12:09,2024/7/10 12:09,127
+6,Normal,1498,40278,I-emotion,I - Walking,200,126,2024/7/10 12:09,2024/7/10 12:09,127
+7,35,1496,40276,I-temperature,I - Walking,200,126,2024/7/10 12:11,2024/7/10 12:11,126
+8,45,1497,40276,I-weight,I - Walking,200,126,2024/7/10 12:11,2024/7/10 12:11,126
+10,Normal,1498,40283,I-emotion,I - Walking,200,128,2024/7/10 12:22,2024/7/10 12:23,128
+11,Happy,1498,40341,I-emotion,I - Walking,200,126,2024/7/10 12:21,2024/7/10 12:24,127
+30,"[""I ate sushi and pudding yummy""]",1507,40353,I-diagnosis,I - Eating,202,127,2024/7/10 14:59,2024/7/10 14:59,127
+34,Normal,1510,40356,I-emotion,I - Checkup,203,126,2024/7/10 15:20,2024/7/10 15:23,128
+35,"[""acute cough since 2 days, no history if medication.""]",1511,40356,I-diagnosis,I - Checkup,203,126,2024/7/10 15:20,2024/7/10 15:23,128
+36,37.5,1508,40356,I-temperature,I - Checkup,203,126,2024/7/10 15:20,2024/7/10 15:23,128
+37,45,1509,40356,I-weight,I - Checkup,203,126,2024/7/10 15:20,2024/7/10 15:23,128
+38,37.8,1508,40357,I-temperature,I - Checkup,203,127,2024/7/10 15:23,2024/7/10 15:26,128
+39,48,1509,40357,I-weight,I - Checkup,203,127,2024/7/10 15:23,2024/7/10 15:26,128
+40,Sad,1510,40357,I-emotion,I - Checkup,203,127,2024/7/10 15:23,2024/7/10 15:26,128
+41,"[""persistent headache since 1 month, neasaus and vomits twice this morning, sleepy after rest""]",1511,40357,I-diagnosis,I - Checkup,203,127,2024/7/10 15:23,2024/7/10 15:26,128
+42,37.5,1508,40358,I-temperature,I - Checkup,203,127,2024/7/10 15:28,2024/7/10 15:32,126
+43,48,1509,40358,I-weight,I - Checkup,203,127,2024/7/10 15:28,2024/7/10 15:32,126
+44,Sad,1510,40358,I-emotion,I - Checkup,203,127,2024/7/10 15:28,2024/7/10 15:32,126
+45,"[""You feel tired, coping mechanisms are cry and sleep, don't want to eat to the point she has GERD""]",1511,40358,I-diagnosis,I - Checkup,203,127,2024/7/10 15:28,2024/7/10 15:32,126
+46,37.5,1508,40359,I-temperature,I - Checkup,203,128,2024/7/10 15:31,2024/7/10 15:32,126
+47,50,1509,40359,I-weight,I - Checkup,203,128,2024/7/10 15:31,2024/7/10 15:32,126
+48,50,1509,40361,I-weight,I - Checkup,203,128,2024/7/10 15:31,2024/7/10 15:32,127
+49,Sad,1510,40359,I-emotion,I - Checkup,203,128,2024/7/10 15:31,2024/7/10 15:32,126
+50,"[""She has a headache, feel bad because Takeru-san pay for her food,""]",1511,40359,I-diagnosis,I - Checkup,203,128,2024/7/10 15:31,2024/7/10 15:32,126
+51,"[""headache, feel bad because Takeru-san pay for her food""]",1511,40361,I-diagnosis,I - Checkup,203,128,2024/7/10 15:31,2024/7/10 15:32,127
+52,"37,5",1508,40361,I-temperature,I - Checkup,203,128,2024/7/10 15:31,2024/7/10 15:32,127
+53,37,1508,40362,I-temperature,I - Checkup,203,126,2024/7/10 15:33,2024/7/10 15:34,127
+54,45,1509,40362,I-weight,I - Checkup,203,126,2024/7/10 15:33,2024/7/10 15:34,127
+55,Normal,1510,40362,I-emotion,I - Checkup,203,126,2024/7/10 15:33,2024/7/10 15:34,127
+56,"[""acute cough since 2 days""]",1511,40362,I-diagnosis,I - Checkup,203,126,2024/7/10 15:33,2024/7/10 15:34,127
