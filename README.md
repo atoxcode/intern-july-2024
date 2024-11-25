@@ -1,5 +1,5 @@
 # intern-july-2024
-On this occasion, I had the opportunity to be in charge of the July 2024 internship program. Interestingly, the intern students are students who do not have a computer science background, making it even more interesting. With the help of my partner, Dr.Eng. Garcia, this material became interesting basic material to learn.
+On this occasion, I had the opportunity to be in charge of the July 2024 internship program. Interestingly, the intern students are students who do not have a computer science background. With the help of my partner, Dr.Eng. Garcia, this material became interesting basis learn.
 
 We giving 3 scenario for the interns to collecting and processing data by using FonLog.
 The 3 scenarios are:
